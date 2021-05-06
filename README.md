@@ -2,10 +2,25 @@
 
 A introductory swahili course to building Machine learning Models with Python to be hosted on Barmaga.io
 
+## Tech stack used
+
+- Languages
+  - Python
+- Libraries
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Scikit-learn
+  - Telepot
+  - Gradio
+
+
 ## Course roadmap ?
 
 - Introduction to Machine learning concepts
 - Settings up environment ready for traning ML Models
+  - Installing required packages 
+  - Getting started wwith jupyter notebook 
 - A brief guide to Machine Learning Libraries
   - Pandas
   - Numpy
