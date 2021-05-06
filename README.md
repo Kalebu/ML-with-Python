@@ -5,14 +5,14 @@ A introductory swahili course to building Machine learning Models with Python to
 ## Tech stack used
 
 - Languages
-  - Python
+  - [Python](https://www.python.org/)
 - Libraries
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Scikit-learn
-  - Telepot
-  - Gradio
+  - [Numpy](https://numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Matplotlib](https://matplotlib.org/)
+  - [Scikit-learn](https://scikit-learn.org/stable/)
+  - [Telepot](https://telepot.readthedocs.io/en/latest/)
+  - [Gradio](https://www.gradio.app/)
 
 
 ## Course roadmap ?
